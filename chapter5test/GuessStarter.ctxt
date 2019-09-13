@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GuessStarter
+comment1.params=user\ number
+comment1.target=void\ guessNumber(int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

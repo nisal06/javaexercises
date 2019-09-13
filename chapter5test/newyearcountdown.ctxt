@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=newyearcountdown
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ newyear\ here.\r\n\r\n\ @author\ (Nisal\r\n\ )\r\n\ @version\ (12.12\ day\ 21)\r\n
+comment1.params=n
+comment1.target=void\ countdown(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
