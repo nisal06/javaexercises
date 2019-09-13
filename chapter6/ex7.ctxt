@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ex7
+comment0.text=\ Write\ a\ description\ of\ class\ ex1countdown\ here.\r\nday\ 21\r\nexercise\ no\:5\r\nchapter\:5\r\nbook\:think\ java\r\n\ @author\ (Nisal)\r\n\ @version\ (12.12\ day\ 26)\r\n
+comment1.params=n
+comment1.target=void\ oddSum(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ex04ii
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ vvv\ here.\r\n\r\n\ @author\ (Nisal)\r\n\ @version\ (day\ 24\ chapter\ 6)\r\n
+comment1.params=a\ b\ c
+comment1.target=double\ multiAdd(double,\ double,\ double)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
